@@ -1,4 +1,4 @@
 # hello-world
-Just a test 2
+Just a test and revert
 
 Text to test content in different branch.
