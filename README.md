@@ -17,3 +17,5 @@ Test after tag v0.1.0
 More changes after tag v0.1.0
 
 Next change for new version targeting v0.2.0
+
+Test change for signing commit 1
